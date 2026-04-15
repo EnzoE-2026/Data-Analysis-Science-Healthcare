@@ -36,7 +36,6 @@
 2. Spark SQL
 3. Azure Fabric/Synapse Spark pools
 
-XGB BOOST
 
 ## Skills (**[@Healthcare-AI-EnzoE](https://youtube.com/@healthcare-ai-enzoe?si=L1i4YvlgCqt38Emj)**)
 - Importing data
@@ -49,4 +48,4 @@ XGB BOOST
 - Querying SQL database
 - Webscraping via API's
 - Data normilization / standardizatio
-- ....
+- Machine Learning 
