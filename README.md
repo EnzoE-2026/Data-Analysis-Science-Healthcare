@@ -2,7 +2,7 @@
 
 ## 4/15/2026 >> FA '26' = 126 days.
 
-  - [Microsoft Certified: Power BI Data Analyst Associate] (https://github.com/EnzoE-2026/Microsoft-Certified-Power-BI-Data-Analyst-Associate)
+  - [Microsoft Certified: Power BI Data Analyst Associate](https://github.com/EnzoE-2026/Microsoft-Certified-Power-BI-Data-Analyst-Associate)
 
   - [Microsoft Certified: Azure Data Scientist Associate] (https://example.com)
 
