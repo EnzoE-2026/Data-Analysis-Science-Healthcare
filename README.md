@@ -26,8 +26,9 @@
 ## Programming 
 1. Python
 2. SQL
-3. C
-4. Java
+3. Java
+4. C
+5. VB.Net
 
 ## Data enegineering (Azure Cloud)
 
