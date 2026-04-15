@@ -24,11 +24,11 @@
 
 
 ## Programming 
-1. Python
-2. SQL
-3. Java
-4. C
-5. VB.Net
+- Python
+- SQL
+- Java
+- C
+- VB.Net
 
 ## Data enegineering (Azure Cloud)
 
@@ -38,3 +38,6 @@
 3. Azure Fabric/Synapse Spark pools
 
 XGB BOOST
+
+## Skills
+-
