@@ -27,8 +27,7 @@
 - Python
 - SQL
 - Java
-- C
-- VB.Net
+- R
 
 ## Data enegineering (Azure Cloud)
 
@@ -39,5 +38,15 @@
 
 XGB BOOST
 
-## Skills
--
+## Skills (**[@Healthcare-AI-EnzoE](https://youtube.com/@healthcare-ai-enzoe?si=L1i4YvlgCqt38Emj)**)
+- Importing data
+- Cleaning data
+- Data manipulation
+- Exporting data
+- EDA (Exploratory Data Analysis)
+- Data modeling
+- Visualizations
+- Querying SQL database
+- Webscraping via API's
+- Data normilization / standardizatio
+- ....
