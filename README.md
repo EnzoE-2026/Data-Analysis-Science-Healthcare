@@ -32,4 +32,9 @@
 
 ## Data enegineering (Azure Cloud)
 
-## ML - Machine Learning 
+## Big Data Processing
+1. PySpark
+2. Spark SQL
+3. Azure Fabric/Synapse Spark pools
+
+XGB BOOST
