@@ -47,5 +47,5 @@
 - Visualizations
 - Querying SQL database
 - Webscraping via API's
-- Data normilization / standardizatio
+- Data normilization / standardization
 - Machine Learning 
