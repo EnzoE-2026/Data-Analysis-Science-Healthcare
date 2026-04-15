@@ -49,3 +49,7 @@
 - Webscraping via API's
 - Data normilization / standardization
 - Machine Learning 
+
+## Operating Systems 
+1. Windows OS (native)
+2. Debian Linux
