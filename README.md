@@ -20,4 +20,11 @@
 1. Project #1
 2. Project #2
 3. Project #3
-4. Project #4 
+4. Project #4
+
+
+## Programming 
+1. Python
+2. SQL
+3. C
+4. Java
