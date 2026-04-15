@@ -1,4 +1,4 @@
-# Data Analytics X AI x Healthcare Portfolio.
+# Data Analytics x AI x Healthcare Portfolio.
 
 ## 4/15/2026 >> FA '26' = 126 days.
 
