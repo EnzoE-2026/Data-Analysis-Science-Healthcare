@@ -28,3 +28,7 @@
 2. SQL
 3. C
 4. Java
+
+## Data enegineering (Azure Cloud)
+
+## ML - Machine Learning 
