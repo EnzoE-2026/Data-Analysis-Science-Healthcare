@@ -35,6 +35,7 @@
 1. PySpark
 2. Spark SQL
 3. Azure Fabric/Synapse Spark pools
+4. Databricks
 
 
 ## Skills (**[@Healthcare-AI-EnzoE](https://youtube.com/@healthcare-ai-enzoe?si=L1i4YvlgCqt38Emj)**)
